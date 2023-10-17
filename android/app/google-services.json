@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "311526100903",
+    "project_id": "talenthub-2375d",
+    "storage_bucket": "talenthub-2375d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311526100903:android:a9e33407385d4c89bbf082",
+        "android_client_info": {
+          "package_name": "com.example.portfolio_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfWHYICudqHH_4F5dYXCVdddEJwsEG5bs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
